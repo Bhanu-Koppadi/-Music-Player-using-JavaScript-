@@ -21,12 +21,12 @@ music-player/
 - ├── style.css
 - ├── script.js
 - └── songs/
- -  ├── song1.mp3
- -  ├── song2.mp3
- -  ├── song3.mp3
- -  ├── song4.mp3
- -  ├── song5.mp3
- -  └── song6.mp3
+  -  ├── song1.mp3
+  -  ├── song2.mp3
+  -  ├── song3.mp3
+  -  ├── song4.mp3
+  -  ├── song5.mp3
+  -  └── song6.mp3
 
 ## 🎯 How to Use
 1. Open `index.html` in your browser.
