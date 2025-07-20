@@ -17,6 +17,7 @@ A fully functional music player built with HTML, CSS, and JavaScript. Includes b
 
 ## 📂 Folder Structure
 music-player/
+
 ├── index.html
 
 ├── style.css
@@ -25,17 +26,17 @@ music-player/
 
 └── songs/
 
-├── song1.mp3
+  ├── song1.mp3
 
-├── song2.mp3
+  ├── song2.mp3
 
-├── song3.mp3
+  ├── song3.mp3
 
-├── song4.mp3
+  ├── song4.mp3
 
-├── song5.mp3
+  ├── song5.mp3
 
-└── song6.mp3
+  └── song6.mp3
 
 ## 🎯 How to Use
 1. Open `index.html` in your browser.
